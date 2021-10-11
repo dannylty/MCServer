@@ -1,0 +1,274 @@
+[23:03:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:03:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:03:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:03:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:03:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:03:26] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[23:03:26] [Server thread/INFO]: Loading properties
+[23:03:26] [Server thread/INFO]: Default game type: SURVIVAL
+[23:03:26] [Server thread/INFO]: Generating keypair
+[23:03:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:03:26] [Server thread/INFO]: Using default channel type
+[23:03:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:03:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:03:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:03:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:03:27] [Server thread/INFO]: Preparing level "world"
+[23:03:27] [Server thread/INFO]: Reloading ResourceManager: Default
+[23:03:27] [Server thread/INFO]: Loaded 6 recipes
+[23:03:28] [Server thread/INFO]: Loaded 825 advancements
+[23:03:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:03:29] [Server thread/INFO]: Preparing spawn area: 0%
+[23:03:29] [Server thread/INFO]: Preparing spawn area: 0%
+[23:03:29] [Server thread/INFO]: Preparing spawn area: 0%
+[23:03:31] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[23:03:31] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[23:03:31] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[23:03:31] [Server thread/INFO]: Preparing spawn area: 60%
+[23:03:31] [Server thread/INFO]: Time elapsed: 3078 ms
+[23:03:31] [Server thread/INFO]: Done (4.215s)! For help, type "help"
+[23:05:12] [Server thread/INFO]: Kiat[/116.86.216.29:55855] logged in with entity id 67 at (209.15114627946718, 60.0, 344.25075248547626)
+[23:05:12] [Server thread/INFO]: Kiat joined the game
+[23:05:34] [Server thread/INFO]: CloudeKr[/192.168.1.1:61632] logged in with entity id 818 at (-7.8210543893510724, 9.0, 3016.8625186081013)
+[23:05:34] [Server thread/INFO]: CloudeKr joined the game
+[23:06:55] [Server thread/INFO]: CeZ4ry[/116.88.169.37:58163] logged in with entity id 1390 at (216.74403974698092, 79.0, 422.30956973070715)
+[23:06:55] [Server thread/INFO]: CeZ4ry joined the game
+[23:07:00] [Server thread/INFO]: <CeZ4ry> didscord la sial
+[23:11:52] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/3696, l='world', x=219.78, y=59.35, z=360.42]
+[23:11:57] [Server thread/INFO]: <CloudeKr> hi
+[23:12:05] [Server thread/INFO]: <Kiat> sup
+[23:12:15] [Server thread/INFO]: <CeZ4ry> discord
+[23:12:30] [Server thread/INFO]: <CloudeKr> i made some mining + sorting processing plant
+[23:12:37] [Server thread/INFO]: <CloudeKr> at the tundra village bro
+[23:12:45] [Server thread/INFO]: <Kiat> item sorter ah
+[23:12:51] [Server thread/INFO]: <CloudeKr> yeah for all the mined things
+[23:13:11] [Server thread/INFO]: <CloudeKr> minecart with chest transport
+[23:13:20] [Server thread/INFO]: <CloudeKr> lets get diamonds
+[23:14:37] [Server thread/INFO]: [CloudeKr: Set the weather to clear]
+[23:14:45] [Server thread/INFO]: <CeZ4ry> nice cheat bro
+[23:14:48] [Server thread/INFO]: <CloudeKr> dude ur nuts
+[23:14:54] [Server thread/INFO]: <CloudeKr> using ender pearl to travel
+[23:14:57] [Server thread/INFO]: <CloudeKr> why didn't we think of that
+[23:15:00] [Server thread/INFO]: <CeZ4ry> i got too many
+[23:15:04] [Server thread/INFO]: <CloudeKr> yeah that's why
+[23:15:06] [Server thread/INFO]: <CloudeKr> big bran
+[23:15:56] [Server thread/INFO]: <CloudeKr> hi
+[23:15:58] [Server thread/INFO]: <CloudeKr> can give me some
+[23:16:00] [Server thread/INFO]: <CeZ4ry> discord
+[23:16:00] [Server thread/INFO]: <CloudeKr> pearls
+[23:16:02] [Server thread/INFO]: <CloudeKr> fk u
+[23:16:05] [Server thread/INFO]: <CloudeKr> my ears sweating
+[23:16:14] [Server thread/INFO]: <Kiat> bro
+[23:16:20] [Server thread/INFO]: <CeZ4ry> then undeafen and listen lor
+[23:16:20] [Server thread/INFO]: <Kiat> 6 inventories of pearls
+[23:16:26] [Server thread/INFO]: <Kiat> at the enderman farm
+[23:16:31] [Server thread/INFO]: <CeZ4ry> what should my next project be
+[23:16:31] [Server thread/INFO]: <Kiat> but i got some here if u want
+[23:17:24] [Server thread/INFO]: <CloudeKr> no need light up everythin gman
+[23:17:25] [Server thread/INFO]: <CloudeKr> yea
+[23:17:26] [Server thread/INFO]: <CloudeKr> will be ugly
+[23:17:40] [Server thread/INFO]: <CloudeKr> im not gonna bother
+[23:17:45] [Server thread/INFO]: <CloudeKr> zombies are part of the decoration
+[23:17:59] [Server thread/INFO]: <CloudeKr> then just patch it up la sial
+[23:18:49] [Server thread/INFO]: <CloudeKr> that's a slippery slope bro
+[23:19:00] [Server thread/INFO]: <CloudeKr> wtf
+[23:19:18] [Server thread/INFO]: <CloudeKr> need wait until 1.15
+[23:19:21] [Server thread/INFO]: <CloudeKr> i mean 1.16
+[23:19:25] [Server thread/INFO]: <CloudeKr> i have a portal up to the nether roof
+[23:19:27] [Server thread/INFO]: <CloudeKr> is near joe house
+[23:19:40] [Server thread/INFO]: <CloudeKr> cause they changing some interactions
+[23:19:48] [Server thread/INFO]: <CloudeKr> oh fk
+[23:19:49] [Server thread/INFO]: <CloudeKr> sleep
+[23:19:59] [Server thread/INFO]: CeZ4ry lost connection: Disconnected
+[23:19:59] [Server thread/INFO]: CeZ4ry left the game
+[23:20:03] [Server thread/INFO]: <CloudeKr> sleep before my farmers turn to witches
+[23:20:06] [Server thread/INFO]: CeZ4ry[/116.88.169.37:58196] logged in with entity id 6675 at (200.0296734666541, 74.0, 474.05128317335283)
+[23:20:06] [Server thread/INFO]: CeZ4ry joined the game
+[23:20:08] [Server thread/INFO]: <Kiat> imagine saying sleep
+[23:20:10] [Server thread/INFO]: <Kiat> but last to sleep
+[23:21:36] [Server thread/INFO]: <CloudeKr> is it time to
+[23:21:41] [Server thread/INFO]: <CloudeKr> move to another town
+[23:21:45] [Server thread/INFO]: <CloudeKr> demarcate a 5k-5k circle
+[23:21:48] [Server thread/INFO]: <CloudeKr> and mine the fuck out of it
+[23:21:50] [Server thread/INFO]: <CloudeKr> and build a town
+[23:21:58] [Server thread/INFO]: <CloudeKr> i saw a timelapse online tho
+[23:21:58] [Server thread/INFO]: <Kiat> you mean quarry ah
+[23:21:59] [Server thread/INFO]: <CloudeKr> nuts
+[23:22:01] [Server thread/INFO]: <CloudeKr> no just a town
+[23:22:03] [Server thread/INFO]: <CloudeKr> wiht a wall
+[23:22:05] [Server thread/INFO]: <CloudeKr> and everything
+[23:22:15] [Server thread/INFO]: <CloudeKr> with all stone floors
+[23:22:29] [Server thread/INFO]: <CloudeKr> time to dig 5k 5k circle myself
+[23:22:47] [Server thread/INFO]: <CloudeKr> but our town looks like shit
+[23:22:51] [Server thread/INFO]: <CloudeKr> compared to what we will make
+[23:22:53] [Server thread/INFO]: <CloudeKr> this will be like
+[23:22:55] [Server thread/INFO]: <CloudeKr> the factory town
+[23:22:58] [Server thread/INFO]: <CloudeKr> like in factorio
+[23:23:01] [Server thread/INFO]: <CloudeKr> to craft the things needed
+[23:23:02] [Server thread/INFO]: <CloudeKr> to build the real town
+[23:23:15] [Server thread/INFO]: <CloudeKr> WTF
+[23:23:20] [Server thread/INFO]: <CloudeKr> who blew up my road
+[23:23:23] [Server thread/INFO]: <CloudeKr> to a creeper
+[23:23:31] [Server thread/INFO]: <CloudeKr> oh wait no it's dug by me
+[23:23:39] [Server thread/INFO]: <CloudeKr> no this half built road
+[23:23:45] [Server thread/INFO]: <CloudeKr> next to the auto crop farm
+[23:23:50] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=236, y=59, z=336} fk{x=236, y=59, z=337}
+[23:23:50] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=236, y=59, z=336} fk{x=236, y=59, z=337}
+[23:23:57] [Server thread/INFO]: <CloudeKr> i will texture it
+[23:23:59] [Server thread/INFO]: <CloudeKr> after i build
+[23:24:09] [Server thread/INFO]: <CloudeKr> jk 1k
+[23:24:57] [Server thread/INFO]: <CloudeKr> me
+[23:25:02] [Server thread/INFO]: <CloudeKr> cause it makes the nether portal go to you
+[23:25:09] [Server thread/INFO]: <CloudeKr> under my house
+[23:25:17] [Server thread/INFO]: <CloudeKr> you can just ignite it when you want
+[23:25:24] [Server thread/INFO]: <CloudeKr> i do that when im playing solo on this server
+[23:25:45] [Server thread/INFO]: <CloudeKr> i mean joe and kitwin shd know
+[23:25:53] [Server thread/INFO]: <CloudeKr> it's near the fake barn
+[23:25:59] [Server thread/INFO]: <CloudeKr> near the sugar cane
+[23:26:05] [Server thread/INFO]: <CloudeKr> it will look obvious
+[23:26:21] [Server thread/INFO]: <CloudeKr> actl it's at pek's house
+[23:27:53] [Server thread/WARN]: Fetching packet for removed entity awb['Potato'/9643, l='world', x=111.50, y=75.26, z=404.70]
+[23:27:53] [Server thread/WARN]: Fetching packet for removed entity awb['Potato'/9644, l='world', x=111.50, y=75.26, z=404.70]
+[23:27:53] [Server thread/WARN]: Fetching packet for removed entity awb['Potato'/9645, l='world', x=111.50, y=75.26, z=404.70]
+[23:28:06] [Server thread/INFO]: <CloudeKr> i have the map
+[23:28:08] [Server thread/INFO]: <CloudeKr> somewhere in my map room
+[23:31:09] [Server thread/INFO]: <CloudeKr> map + paper
+[23:31:11] [Server thread/INFO]: <CloudeKr> to expand
+[23:31:59] [Server thread/INFO]: CloudeKr lost connection: Disconnected
+[23:31:59] [Server thread/INFO]: CloudeKr left the game
+[23:32:01] [Server thread/INFO]: CeZ4ry lost connection: Disconnected
+[23:32:01] [Server thread/INFO]: CeZ4ry left the game
+[23:32:03] [Server thread/INFO]: CloudeKr[/192.168.1.1:62440] logged in with entity id 11426 at (137.73544781990148, 71.0, 448.51023423523486)
+[23:32:03] [Server thread/INFO]: CloudeKr joined the game
+[23:32:04] [Server thread/INFO]: CeZ4ry[/116.88.169.37:58209] logged in with entity id 11466 at (176.60430593417615, 78.0, 477.4229082491114)
+[23:32:04] [Server thread/INFO]: CeZ4ry joined the game
+[23:32:24] [Server thread/INFO]: <CloudeKr> kill some drowned
+[23:32:30] [Server thread/INFO]: <CloudeKr> no the guy just walk up to me
+[23:32:31] [Server thread/INFO]: <CloudeKr> hand me one
+[23:32:54] [Server thread/INFO]: <CloudeKr> just go ocean
+[23:32:55] [Server thread/INFO]: <CloudeKr> and find
+[23:33:06] [Server thread/INFO]: <CloudeKr> go find the ruins
+[23:33:08] [Server thread/INFO]: <CloudeKr> it's everywhere
+[23:33:10] [Server thread/INFO]: <CloudeKr> ruins got drowned
+[23:33:58] [Server thread/INFO]: <CloudeKr> ok i put the nether portal near the cake place
+[23:34:05] [Server thread/INFO]: <CloudeKr> yea
+[23:34:10] [Server thread/INFO]: <CloudeKr> yea
+[23:34:15] [Server thread/INFO]: <CloudeKr> near the cake place
+[23:34:33] [Server thread/INFO]: <CloudeKr> yea
+[23:34:36] [Server thread/INFO]: <CloudeKr> have fun
+[23:34:45] [Server thread/INFO]: <CloudeKr> eh lets go ocean exploring la
+[23:34:46] [Server thread/INFO]: <CloudeKr> legit
+[23:34:50] [Server thread/INFO]: <CloudeKr> i find trident i give u
+[23:35:17] [Server thread/INFO]: <CloudeKr> that's me
+[23:35:38] [Server thread/INFO]: <CloudeKr> i gonna go ocean
+[23:36:06] [Server thread/INFO]: <CloudeKr> it shows how expanded it is
+[23:36:09] [Server thread/INFO]: <CloudeKr> u need to open tooltip
+[23:36:12] [Server thread/INFO]: <CloudeKr> options
+[23:36:17] [Server thread/INFO]: <CloudeKr> just go find it
+[23:36:17] [Server thread/INFO]: <CloudeKr> lol
+[23:36:21] [Server thread/INFO]: <CloudeKr> i can't rmb
+[23:37:28] [Server thread/INFO]: <CloudeKr> yea
+[23:37:47] [Server thread/INFO]: Kiat lost connection: Disconnected
+[23:37:47] [Server thread/INFO]: Kiat left the game
+[23:38:33] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:38:33] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:38:33] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:39:17] [Server thread/WARN]: Error while deserializing minecraft:spruce_tree
+[23:39:17] [Server thread/WARN]: Error while deserializing minecraft:spruce_tree
+[23:39:17] [Server thread/WARN]: Error while deserializing minecraft:taiga_grass
+[23:39:17] [Server thread/WARN]: Error while deserializing minecraft:pumpkin_pile
+[23:39:17] [Server thread/WARN]: Error while deserializing minecraft:pine_tree
+[23:39:17] [Server thread/WARN]: Error while deserializing minecraft:spruce_tree
+[23:39:17] [Server thread/WARN]: Error while deserializing minecraft:spruce_tree
+[23:39:47] [Server thread/INFO]: <CloudeKr> oh
+[23:39:48] [Server thread/INFO]: <CloudeKr> kitwin
+[23:39:50] [Server thread/INFO]: <CloudeKr> gimme my trident back
+[23:40:01] [Server thread/INFO]: <CloudeKr> whr u
+[23:40:11] [Server thread/INFO]: <CloudeKr> nigger
+[23:40:16] [Server thread/INFO]: <CloudeKr> whr u
+[23:40:35] [Server thread/INFO]: <CloudeKr> u have your trident on you?
+[23:40:37] [Server thread/INFO]: <CloudeKr> my*
+[23:40:40] [Server thread/INFO]: <CloudeKr> then i fly to u
+[23:40:42] [Server thread/INFO]: <CloudeKr> coords pls
+[23:40:48] [Server thread/INFO]: <CloudeKr> NABEI
+[23:40:50] [Server thread/INFO]: Kiat[/116.86.216.29:55990] logged in with entity id 18037 at (212.30000001192093, 73.0, 322.9650632539484)
+[23:40:50] [Server thread/INFO]: Kiat joined the game
+[23:40:51] [Server thread/INFO]: <CloudeKr> ok sure
+[23:41:10] [Server thread/INFO]: <CloudeKr> fk u
+[23:41:22] [Server thread/INFO]: <CloudeKr> nop
+[23:41:29] [Server thread/INFO]: <CloudeKr> there's enough shit to do in this world alr
+[23:42:49] [Server thread/INFO]: [CloudeKr: Set own game mode to Spectator Mode]
+[23:42:52] [Server thread/INFO]: [CloudeKr: Teleported CloudeKr to CeZ4ry]
+[23:42:55] [Server thread/INFO]: [CloudeKr: Set own game mode to Survival Mode]
+[23:43:04] [Server thread/INFO]: <CloudeKr> im on ur ass
+[23:43:34] [Server thread/INFO]: <CloudeKr> i told u im on ur ass
+[23:43:47] [Server thread/INFO]: <CloudeKr> ok drop it
+[23:44:45] [Server thread/INFO]: <CloudeKr> yea
+[23:44:49] [Server thread/INFO]: <CloudeKr> but idk whats our house coords
+[23:46:08] [Server thread/INFO]: <CloudeKr> how about find a coral reef
+[23:46:37] [Server thread/WARN]: Error while deserializing minecraft:cactus
+[23:46:37] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:48:32] [Server thread/WARN]: CloudeKr moved too quickly! 15.508314771874211,7.833265377799194,-1.3136141894523234
+[23:48:32] [Server thread/WARN]: CeZ4ry moved too quickly! -4.949862036804916,-2.069228013045006,17.447287399438096
+[23:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[23:48:54] [Server thread/INFO]: <Kiat> slp
+[23:48:57] [Server thread/INFO]: CeZ4ry lost connection: Disconnected
+[23:48:57] [Server thread/INFO]: CeZ4ry left the game
+[23:48:58] [Server thread/INFO]: <CloudeKr> i can't im flying
+[23:49:03] [Server thread/INFO]: CloudeKr lost connection: Disconnected
+[23:49:03] [Server thread/INFO]: CloudeKr left the game
+[23:49:05] [Server thread/INFO]: CloudeKr[/192.168.1.1:62921] logged in with entity id 33243 at (4260.8198423725335, 108.52235563846807, 906.3638996263901)
+[23:49:05] [Server thread/INFO]: CloudeKr joined the game
+[23:49:21] [Server thread/INFO]: CeZ4ry[/116.88.169.37:58246] logged in with entity id 33605 at (1055.0863476163352, 69.09396866187252, -157.86700840331835)
+[23:49:21] [Server thread/INFO]: CeZ4ry joined the game
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:49:23] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:49:45] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[23:49:48] [Server thread/INFO]: <CloudeKr> yeah it's not really done
+[23:49:59] [Server thread/INFO]: <CloudeKr> fk the library
+[23:50:00] [Server thread/INFO]: <CloudeKr> burn it down
+[23:50:05] [Server thread/WARN]: CloudeKr moved too quickly! 17.18233352802781,-2.042210450466058,-2.1611656253051024
+[23:50:05] [Server thread/WARN]: CeZ4ry moved too quickly! 1.186437972693966,-2.169180922056327,-17.811832417336916
+[23:50:08] [Server thread/WARN]: CeZ4ry moved too quickly! 0.456701848482453,1.828105781270068,-18.098704036367593
+[23:50:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
+[23:50:10] [Server thread/WARN]: CloudeKr moved too quickly! 14.572477507335861,10.162919442023892,-1.4388503014840808
+[23:50:10] [Server thread/WARN]: CeZ4ry moved too quickly! 0.21947143829538618,-0.056952177206440524,-18.44581462384815
+[23:50:11] [Server thread/INFO]: <CloudeKr> yeah
+[23:50:12] [Server thread/INFO]: <CloudeKr> im flying
+[23:50:17] [Server thread/INFO]: <CloudeKr> and it's nto loading
+[23:50:20] [Server thread/WARN]: CeZ4ry moved too quickly! -1.18090739820218,-2.1248165486044996,-18.440734676722457
+[23:50:20] [Server thread/WARN]: CloudeKr moved too quickly! 18.26737847812001,-2.60315591003328,0.02480133032838694
+[23:50:20] [Server thread/INFO]: <CloudeKr> my ram is exploding
+[23:50:24] [Server thread/WARN]: CeZ4ry moved too quickly! 0.32606886008352376,3.1297495471545886,-17.88672691834836
+[23:50:25] [Server thread/WARN]: CeZ4ry moved too quickly! -0.3538512036930115,0.6618508748504155,-18.19382298302628
+[23:50:25] [Server thread/WARN]: CloudeKr moved too quickly! 17.18513987326787,-3.222685647482649,-0.5944602710424078
+[23:50:26] [Server thread/INFO]: <CloudeKr> brb restart server
+[23:50:30] [Server thread/WARN]: CeZ4ry moved too quickly! -1.3427224448694233,-1.6537498221288445,-17.316368427274256
+[23:50:30] [Server thread/INFO]: CloudeKr lost connection: Disconnected
+[23:50:30] [Server thread/INFO]: CloudeKr left the game

@@ -1,0 +1,47 @@
+[13:16:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:16:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:16:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:16:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:16:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:16:55] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:16:55] [Server thread/INFO]: Loading properties
+[13:16:55] [Server thread/INFO]: Default game type: SURVIVAL
+[13:16:55] [Server thread/INFO]: Generating keypair
+[13:16:55] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_231]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_231]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_231]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_231]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_231]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_231]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_231]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_231]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_231]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_231]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_231]
+	at wd$2.run(SourceFile:110) [server.jar:?]
+[13:16:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:16:55] [Server thread/INFO]: Using default channel type
+[13:16:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:16:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:16:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:16:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:16:55] [Server thread/INFO]: Preparing level "world"
+[13:16:55] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:16:56] [Server thread/INFO]: Loaded 6 recipes
+[13:16:56] [Server thread/INFO]: Loaded 825 advancements
+[13:16:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:16:57] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:57] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:59] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[13:16:59] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[13:16:59] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:16:59] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[13:16:59] [Server thread/INFO]: Time elapsed: 2836 ms
+[13:16:59] [Server thread/INFO]: Done (4.193s)! For help, type "help"
+[13:17:02] [Server thread/INFO]: Cakeshop[/192.168.1.1:59206] logged in with entity id 177 at (232.5, 61.0, 35.5)
+[13:17:02] [Server thread/INFO]: Cakeshop joined the game
+[13:18:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=235, y=66, z=38}
+[13:18:30] [Server thread/INFO]: Cakeshop lost connection: Disconnected
+[13:18:30] [Server thread/INFO]: Cakeshop left the game
