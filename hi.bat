@@ -1,5 +1,5 @@
 @echo off
 
-java -Xmx8192M -Xms8192M -jar server.jar nogui
+java -Xmx4G -Xms4G -jar server.jar nogui
 
 pause
